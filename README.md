@@ -7,7 +7,7 @@ Products listed under different categories.<br>
 Custom built Authentication.
 
 
-Backend using STRAPI- https://github.com/Robino0aashu/MyGrocery-API
+Backend using STRAPI- https://github.com/Robino0aashu/MyGrocery-API<br>
 Inspired by- https://github.com/Sameera-Perera/Flutter-Grocery-App
 
 
