@@ -1,15 +1,13 @@
 # my_grocery
+A simple grocery app with food products under different categories with a backend supported by Strapi.
 
-A new Flutter project.
+## Features
+Ad banner on the dashboard along with different categories.<br>
+Products listed under different categories.<br>
+Custom built Authentication.
 
-## Getting Started
+Inspired by- https://github.com/Sameera-Perera/Flutter-Grocery-App
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
